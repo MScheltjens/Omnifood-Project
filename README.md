@@ -8,3 +8,4 @@ Used technologies:
 - css
 - js
 
+URL: https://omnifood-project-masch.surge.sh/
